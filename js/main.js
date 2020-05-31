@@ -1,3 +1,3 @@
 window.onload( 
-    alert('jei beibi, desde JS')
+    alert('jei beibi')
     )
